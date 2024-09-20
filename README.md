@@ -86,26 +86,35 @@ plt.show()
 
 ### OUTPUT:
 FIRST FIVE ROWS:
+
 <img width="644" alt="image" src="https://github.com/user-attachments/assets/6d6712a7-73fa-4a67-83ef-b0644e34f797">
 
 
 
 PLOTTING THE DATA:
+
+
 <img width="644" alt="image" src="https://github.com/user-attachments/assets/f7292fb8-5d78-4357-aa2d-f9c437eff486">
 
 
 SEASONAL PLOT REPRESENTATION :
+
+
 <img width="644" alt="image" src="https://github.com/user-attachments/assets/fda3fab5-c7bc-454d-baa6-b11ad0755514">
 
 
 
 
 TREND PLOT REPRESENTATION :
+
+
 <img width="644" alt="image" src="https://github.com/user-attachments/assets/6f527058-ce15-4286-b097-aacf212e6d55">
 
 
 
 OVERAL REPRESENTATION:
+
+
 <img width="644" alt="image" src="https://github.com/user-attachments/assets/9a15a9a7-f34f-476f-b6cb-b77f73204b37">
 
 
